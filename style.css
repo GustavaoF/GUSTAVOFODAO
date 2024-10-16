@@ -57,6 +57,14 @@ footer{
 .conteudo-cartao p{
     margin-top: 4rem;
     padding: 2rem;
-    font-size: 1.4vw;
-    
+    font-size: 1.4vw;   
+}
+
+.pergunta-cartao {
+    font-weight: 500;
+}
+
+.reposta-cartao {
+    font-weight: 700;
+    color: var(--destaque);
 }
