@@ -65,9 +65,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Biologia', 
-    'Qual parte das folhas de planta fazem a troca gasosa?',
-    'Estomato',
+    'Geografia', 
+    'Qual a capital da Coreia do Norte?',
+    'Pyongyang',
 )
 
 criaCartao(
