@@ -14,7 +14,6 @@ function criaCartao(categoria, pergunta, resposta){
 </div>
     `
     
-    
     container.appendChild(cartao);
 }
 
@@ -25,7 +24,7 @@ function mostrarResposta(card){
         resposta.style.display = 'block';
     }
     else{
-        resposta.style.display = 'nome';
+        resposta.style.display = 'none';
     }
 
 }
